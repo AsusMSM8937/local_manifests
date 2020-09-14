@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="asusdevices"
+            fetch="https://github.com/asusdevices"
+            revision="omni-9.0" />
+
+    <!-- device -->
+    <project path="device/asus/X00H" name="twrp_device_asus_X00H" remote="asusdevices" />
+    <project path="device/asus/X00I" name="twrp_device_asus_X00I" remote="asusdevices" />
+    <project path="device/asus/X00P" name="twrp_device_asus_X00P" remote="asusdevices" />
+    <project path="device/asus/X00R" name="twrp_device_asus_X00R" remote="asusdevices" />
+    <project path="device/asus/X01AD" name="twrp_device_asus_X01AD" remote="asusdevices" />
+</manifest>
